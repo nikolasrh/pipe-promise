@@ -1,0 +1,28 @@
+{
+  "name": "pipe-promise",
+  "version": "1.0.0",
+  "description": "Run asynchronous pipelines with helper functions for common array operations like map, filter and reduce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "keywords": [
+    "pipe",
+    "pipeline",
+    "array",
+    "map",
+    "filter",
+    "reduce",
+    "functional",
+    "promise",
+    "promises",
+    "async",
+    "await"
+  ],
+  "author": "Nikolas Rølland Hugsted",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
